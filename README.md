@@ -1,6 +1,6 @@
 # Robot Data Annotation Tool
 
-![Project Screenshot](/Screenshot 2025-02-21223932.png)
+![Project Screenshot](/Screenshot 2025-02-21 223932.png)
 
 The **Robot Data Annotation Tool** is a web-based application built with **React** and **Fabric.js**. It allows users to upload images, annotate them with bounding boxes, and save the annotations in a structured JSON format. This tool is ideal for creating datasets for AI and machine learning projects.
 
