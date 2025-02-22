@@ -42,6 +42,8 @@ Follow these instructions to set up the project locally.
 
 Visit http://localhost:3000 in your browser.
 
+---
+
 ## Usage
 
 ### Upload an Image
@@ -63,6 +65,8 @@ Visit http://localhost:3000 in your browser.
 1. Click the **"Load Annotations"** button to upload a JSON file.
 2. The annotations will be displayed on the image.
 
+---
+
 ## Folder Structure
 ```
 robot-data-annotation-tool/
@@ -76,6 +80,7 @@ robot-data-annotation-tool/
 ├── README.md                # Project documentation
 
 ```
+---
 
 ## Technologies Used
 
